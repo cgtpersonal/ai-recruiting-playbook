@@ -157,5 +157,13 @@ Check-in calls at Day 7, Day 30, and Day 90. Early flags get addressed before th
 | Productivity | Google Workspace · Slack · Notion · Zoom · Calendly |
 
 ---
+## 📂 Resources
+
+Downloadable frameworks developed and applied in real recruiting operations:
+
+- 📄 [Recruiting Flowchart: From Position Requisition to Job Offer](recruiting-flowchart-requisition-to-offer.pdf) — 9-phase end-to-end process from need identification to onboarding
+- 📄 [HR Hiring Process in Detail](HR-Hiring-Process.pdf) — Step-by-step SOP with timelines, screening rubrics, and decision frameworks
+
+---
 
 *Claudia González Tornquist — [LinkedIn](https://www.linkedin.com/in/claudiagonzaleztornquist/) | [Think Global Advisory](https://thinkglobaladvisory.net) | Buenos Aires, Argentina*
